@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/marvel-eb/ReactMix_Preview/static/css/main.b66e339b.chunk.css",
-    "main.js": "/marvel-eb/ReactMix_Preview/static/js/main.1f30978c.chunk.js",
-    "main.js.map": "/marvel-eb/ReactMix_Preview/static/js/main.1f30978c.chunk.js.map",
-    "runtime-main.js": "/marvel-eb/ReactMix_Preview/static/js/runtime-main.a362ff14.js",
-    "runtime-main.js.map": "/marvel-eb/ReactMix_Preview/static/js/runtime-main.a362ff14.js.map",
-    "static/js/2.9ac68993.chunk.js": "/marvel-eb/ReactMix_Preview/static/js/2.9ac68993.chunk.js",
-    "static/js/2.9ac68993.chunk.js.map": "/marvel-eb/ReactMix_Preview/static/js/2.9ac68993.chunk.js.map",
-    "index.html": "/marvel-eb/ReactMix_Preview/index.html",
-    "static/css/main.b66e339b.chunk.css.map": "/marvel-eb/ReactMix_Preview/static/css/main.b66e339b.chunk.css.map",
-    "static/js/2.9ac68993.chunk.js.LICENSE.txt": "/marvel-eb/ReactMix_Preview/static/js/2.9ac68993.chunk.js.LICENSE.txt"
+    "main.css": "/ReactMix_Preview/static/css/main.b66e339b.chunk.css",
+    "main.js": "/ReactMix_Preview/static/js/main.053b85da.chunk.js",
+    "main.js.map": "/ReactMix_Preview/static/js/main.053b85da.chunk.js.map",
+    "runtime-main.js": "/ReactMix_Preview/static/js/runtime-main.310a7446.js",
+    "runtime-main.js.map": "/ReactMix_Preview/static/js/runtime-main.310a7446.js.map",
+    "static/js/2.723ae0ab.chunk.js": "/ReactMix_Preview/static/js/2.723ae0ab.chunk.js",
+    "static/js/2.723ae0ab.chunk.js.map": "/ReactMix_Preview/static/js/2.723ae0ab.chunk.js.map",
+    "index.html": "/ReactMix_Preview/index.html",
+    "static/css/main.b66e339b.chunk.css.map": "/ReactMix_Preview/static/css/main.b66e339b.chunk.css.map",
+    "static/js/2.723ae0ab.chunk.js.LICENSE.txt": "/ReactMix_Preview/static/js/2.723ae0ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a362ff14.js",
-    "static/js/2.9ac68993.chunk.js",
+    "static/js/runtime-main.310a7446.js",
+    "static/js/2.723ae0ab.chunk.js",
     "static/css/main.b66e339b.chunk.css",
-    "static/js/main.1f30978c.chunk.js"
+    "static/js/main.053b85da.chunk.js"
   ]
 }
