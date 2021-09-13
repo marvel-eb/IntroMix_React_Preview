@@ -1,5 +1,6 @@
-# Miscellaneous - Introduction to React Project.
+# Miscellaneous - Introduction to React
 This repository is the preview version of  miscellaneous  React projects.
+> For educational purposes
 <hr>
 
 ## [🌐 DEMO - Live Preview](https://marvel-eb.github.io/IntroMix_React_Preview/)
